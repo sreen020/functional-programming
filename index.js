@@ -1,6 +1,5 @@
 console.log("script loaded");
 const endPoint = "https://opendata.rdw.nl/resource/cgqw-pfbp.json";
-
 getData(endPoint);
 
 async function getData(url) {
@@ -9,8 +8,7 @@ async function getData(url) {
 
   const data = await res.json();
   cleanDates(data);
-
-  const uniqueIds = listUnique(data);
+  cleanLocation(data);
 }
 
 function cleanDates(dataArray) {
@@ -28,12 +26,13 @@ function cleanDates(dataArray) {
   });
 }
 
-function listUnique(dataArray) {
-  let uniqueArray = [];
-  dataArray.map((item) => {
-    if (uniqueArray.indexOf(item) == -1) {
-      uniqueArray.push(item);
-    }
+function cleanLocation(dataArray) {
+  dataArray.forEach((dataRow) => {
+    const latitude = dataRow.location.latitude;
+    const longitude = dataRow.location.longitude;
+
+    const coordinates = `${latitude} - ${longitude}`;
+
+    console.log(coordinates);
   });
-  return uniqueArray;
 }
