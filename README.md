@@ -8,6 +8,9 @@ Waar en hoeveel parkeer verkooppunten komen er jaarlijks bij?
 - komen er sommige jaren meer bij dan andere jaren? (Ik denk dat er ieder jaar meer bijkomen, zeker als we kijken naar de grotere steden)
 - Zijn er plaatsen waar de toename groter is dan andere plaatsen? (Ik denk dat de toename in grote steden en daar omheen fors toeneemt)
 - Moet ik hier het hele daar door betaald parkeren of alleen in bepaalde maanden? (In de voorbeeld datarijen zag ik veel colommen staan waar je een aantal maanden niet hoeft te betalen)
+- Amsterdam wilt steeds minder auto's in de stad hebben, heeft dit invloed op de aantal verkoop punten die er worden neergezet?
+- Worden er ook verkooppunten weggehaald?
+
 extra - Zitten er overeenkomsten of een verschillen in de metaalmethode en de verkooppunten? (In de grote steden kan je meestal niet meer met cash betalen dus dit zal een verschil zijn.)
 
 ## Dataset(s)
