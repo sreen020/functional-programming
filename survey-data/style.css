@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.animal-container {
+  width: 50%;
+  height: 100%;
+  padding: 2rem;
+  background-color: #353b48;
+  border: 1px solid #dfdfdf;
+  color: #dfdfdf;
+  font-family: sans-serif;
+}
+.animal-container h1 {
+  padding-bottom: 1rem;
+}
+.animal-container img {
+  width: 9rem;
+}
