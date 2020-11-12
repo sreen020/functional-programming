@@ -63,6 +63,3 @@ https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-BETAALMETHODE-VERKOOPPUNT/j9
 Met deze dataset kan ik zien hoe er voornamelijk wordt betaald bij verschillende verkooppunten. Hier kan ik weer nieuwe vraagstukken uit halen, zoals: Waarom wordt er in steden meer met mobiel betaald dan op het platteland? of Hoe zal het komen dat er na 2018 helemaal niet meer wordt betaald met cash in Amsterdam?
 
 Als het goed is kan ik deze linken met de verkooppunten van dataset 1 en kan ik deze visualisaties samenvoegen.
-
-
-
